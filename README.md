@@ -1,5 +1,11 @@
 # 💫 About Me:
-A highly skilled and versatile Full Stack Developer with expertise in .NET, React, and Node.js, specializing in building scalable web, mobile, and desktop applicaitons. Proficient in implementing Clean Architecture and designing robust APIs for efficient backend development. Experienced in Flutter for mobile development and adept at integrating third-party services such as Stripe and Firebase. Skilled in database design, including MySQL, SQLite, PostgreSQL, and MongoDB, with a strong focus on performance optimization and secure data management.<br>Excels at translating business requirements into technical solutions and thrives in collaborative, agile environments. Passionate about learning new technologies, following best practices, and continuously enhancing development workflows.
+A versatile Full Stack Developer with strong experience in .NET, Node.js (NestJS), React, and Vue.js, focused on building scalable web applications and distributed systems. Experienced working within microservices and micro-frontend architectures, contributing to large-scale platforms such as Learning Management Systems (LMS).
+
+Skilled in designing and consuming robust APIs while following Clean Architecture principles to maintain scalable and maintainable codebases. Proficient in backend development, asynchronous systems, and event-driven architectures using tools such as RabbitMQ, Redis, and AWS services.
+
+Strong background in database design and performance optimization, working with PostgreSQL, MongoDB, MySQL, and SQLite.
+
+Comfortable working in agile, collaborative environments, translating business requirements into practical technical solutions. Passionate about software architecture, best practices, and continuously improving development workflows while exploring new technologies.
 
 
 ## 🌐 Socials:
